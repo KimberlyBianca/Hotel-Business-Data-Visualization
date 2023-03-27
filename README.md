@@ -9,5 +9,5 @@ Source: [link source](https://drive.google.com/file/d/1cy_gNYxjLTFU-RVbN_zUUR0zT
 
 **Analysis:**
 1. Monthly hotel booking based on hotel type
-2. Impact of stay duration on hotel bookings cancelation rates
-3. Impact of lead time on hotel bookings cancelation rate
+2. Comparison of stay duration with hotel bookings cancelation rates
+3. Comparison of lead time with hotel bookings cancelation rate
